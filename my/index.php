@@ -171,7 +171,7 @@ echo $OUTPUT->custom_block_region('content');
 
 echo $OUTPUT->footer();
 
-echo "cambio en moodle_39";
+echo "primeros cambios prueba1";
 
 // Trigger dashboard has been viewed event.
 $eventparams = array('context' => $context);
